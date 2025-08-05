@@ -7,19 +7,19 @@ itemslist = [1, 2, 3, 4, 5]
 
 
 
-# for item in range(1,6):
-#     print(item)
-#     if(item==1):
-#         print("Item is 1, breaking the loop")
-#         break
-# else:
-#     print("Loop completed successfully")
+for item in range(1,6):
+    print(item)
+    if(item==1):
+        print("Item is 1, breaking the loop")
+        break
+else:
+    print("Loop completed successfully")
 
 
 
 
-# for item in range(6,1,-3):
-#     print(item)
+for item in range(6,1,-3):
+    print(item)
 
 
 while itemslist:
