@@ -2,8 +2,8 @@ print("hello world")
 
 itemslist = [1, 2, 3, 4, 5]
 
-# for item in  itemslist:
-#     print(item)
+for item in  itemslist:
+    print(item)
 
 
 
